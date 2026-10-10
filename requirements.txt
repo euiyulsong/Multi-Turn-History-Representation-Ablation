@@ -1,0 +1,5 @@
+openai>=2.0
+huggingface_hub>=0.29
+# CoQA official Stanford dataset is loaded through this library.
+datasets>=3.0
+pyarrow>=18
